@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background">
+        <div class="container">
+            <nav >
+                <div class="humb" id="ToggleButton" >
+                    <div class="line"></div>
+                    <div class="line"></div>
+                    <div class="line"></div>
+                    
+                </div>
+                <span class="logo">
+                    <div class="circle"></div>
+                    <h4>To do list</h4>
+                </span>
+            </nav>
+
+            <span class="inputs">
+                <input type="text" class="search" placeholder="Enter your Todos" name="texts" id="add">
+                <img id="addBtn" src="icons/addbtn.svg" alt="" srcset="">
+            </span>
+
+            <section class="todo" >
+                <h3>Todo</h3>
+                <div class="list">
+                    <ul id="todo">
+                        
+                        <!-- dynamic -->
+                    </ul>
+                </div>
+            </section>
+        </div>
+
+        <div id="content">
+                <h3 class="text-inst "  >-:Basic instructins:-</h3>
+                
+                <p>1. Type your To-do(s) in the given text-area.</p>
+                <p>2. Single click on To-do(s) if any, will show as Done task</p>
+                <p>3. Double click on To-do(s) if any, will alert to remove the task.</p>
+                <p>4. On click "Ok", will remove the task from the lists. <p>
+                </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
