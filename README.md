@@ -1,4 +1,4 @@
-# To-Do List Application 
+# To-Do List Application
 
 ## Overview 
 This To-Do List application is designed to help users manage their daily tasks efficiently. It allows users to add, edit, delete, and mark tasks as complete. The application is user-friendly and suitable for personal use or team collaboration. 
