@@ -9,4 +9,4 @@ This To-Do List application is designed to help users manage their daily tasks e
 - Mark tasks as complete or incomplete. 
 - Delete tasks. 
 - Sort tasks by priority, date, or completion status. 
-- Responsive user interface for desktop and mobile.
+- Responsive user interface for desktop and mobile
